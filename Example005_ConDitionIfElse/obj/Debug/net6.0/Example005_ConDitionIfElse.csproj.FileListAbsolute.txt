@@ -1,0 +1,15 @@
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\bin\Debug\net6.0\Example005_ConDitionIfElse.exe
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\bin\Debug\net6.0\Example005_ConDitionIfElse.deps.json
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\bin\Debug\net6.0\Example005_ConDitionIfElse.runtimeconfig.json
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\bin\Debug\net6.0\Example005_ConDitionIfElse.dll
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\bin\Debug\net6.0\Example005_ConDitionIfElse.pdb
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.csproj.AssemblyReference.cache
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.AssemblyInfoInputs.cache
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.AssemblyInfo.cs
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.dll
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\refint\Example005_ConDitionIfElse.dll
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.pdb
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\Example005_ConDitionIfElse.genruntimeconfig.cache
+C:\Users\79265\OneDrive\Рабочий стол\HelloWorld_DotNet\Example005_ConDitionIfElse\obj\Debug\net6.0\ref\Example005_ConDitionIfElse.dll
